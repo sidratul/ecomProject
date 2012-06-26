@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Settings>
+    <imageWidth>700</imageWidth>
+    <imageHeight>150</imageHeight>
+    <segments>7</segments>
+    <tweenTime>1.2</tweenTime>
+    <tweenDelay>0.1</tweenDelay>
+    <tweenType>easeInOutBack</tweenType>
+    <zDistance>0</zDistance>
+    <expand>20</expand>
+    <innerColor>0x111111</innerColor>
+    <textBackground>0x0064C8</textBackground>
+    <shadowDarkness>100</shadowDarkness>
+    <textDistance>25</textDistance>
+    <autoplay>12</autoplay>
+  </Settings>
+  <Image Filename="image1.jpg">
+    <Text>
+      <headline>Selamat datang</headline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">menu home</a>
+    </Text>
+  </Image>
+  <Image Filename="image2.jpg">
+    <Text>
+      <headline>Produk</headline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">menu produk</a>
+    </Text>
+  </Image>
+  <Image Filename="image3.jpg">
+    <Text>
+      <headline>tips</headline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">menu produk</a>
+    </Text>
+  </Image>
+  <Image Filename="image4.jpg">
+    <Text>
+      <headline>promo</headline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">menu promo</a>
+    </Text>
+  </Image>
+  <Image Filename="image5.jpg">
+    <Text>
+      <headline>lowongan pekerjaan</headline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">menu lowongan pekerjaan</a>
+    </Text>
+  </Image>
+</Piecemaker>
